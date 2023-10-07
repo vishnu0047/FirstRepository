@@ -6,6 +6,8 @@ public class Sample {
 		
 		int a = 50 ;
 		System.out.println(a);
+		
+		System.out.println("Vishnu done");
 
 	}
 
