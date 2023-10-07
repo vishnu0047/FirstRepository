@@ -8,6 +8,8 @@ public class Sample {
 		System.out.println(a);
 		
 		System.out.println("Vishnu done");
+		
+		System.out.println("Mohan Completed");
 
 	}
 
